@@ -1,0 +1,10 @@
+/* .jellyfish-background {
+    background-image: url("imgs/jeffrey-hamilton-747470-unsplash.jpg");
+} */
+
+#splash-page {
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/background */
+    background: url("imgs/jeffrey-hamilton-747470-unsplash.jpg") center center no-repeat;
+    /* https://stackoverflow.com/questions/26774183/css-stretch-or-fit-background-image */
+    background-size: auto 100%;
+}
